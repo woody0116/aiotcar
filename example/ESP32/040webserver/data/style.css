@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://images.pexels.com/photos/6238614/pexels-photo-6238614.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=450&w=756");
+    background-repeat: no-repeat;
+}
+
+div {
+    user-select: none;
+    text-align: center;
+}
+
+h1 {
+    color: azure;
+}
+
+.row1 {
+    height: 100px;
+}
+
+.row2 {
+    height: 150px;
+}
+
+.row3 {
+    height: 20px;
+}
+
+.row4 {
+    height: 150px;
+}
+
+.card1 {
+    background-color: rgba(245, 245, 245, 0.45);
+    border-radius: 50px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
